@@ -16,7 +16,6 @@ export default {
   name: 'home',
   data () {
     return {
-      keyword: '',
       swiperOption: {
         direction: 'vertical',
         // 滑动速度
